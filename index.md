@@ -6,7 +6,7 @@ This project uses **linear regression** to predict the **compressive strength of
 
 ## 📘 Notebook
 
-- 🌐 [View Rendered Notebook (nbviewer)](https://nbviewer.org/github/mg-islambek/ML-Projects/blob/main/Concrete_Strength_Prediction.ipynb)
+- 🌐 [View Rendered Notebook (nbviewer)](https://nbviewer.org/github/manapislambek/ML-Projects/blob/main/Concrete_Strength_Prediction.ipynb)
 
 ## 📊 Features
 
